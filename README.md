@@ -4,4 +4,4 @@ Use chat.openai.com to turn this PDF document into a formatted, easy to read boo
     1.1 output.markdown : Contains the solution to the assignment.
     1.2 all_images : Images used to link to the markup file.
 2. Assignment.ipynb : All codes suggested by ChatGPT for automating this conversion
-3. Video.mp4 : Contains the explanation of my process for completion.
+3. Video1.mp4 : Contains the explanation of my process for completion.
